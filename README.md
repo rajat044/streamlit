@@ -11,6 +11,7 @@ Streamlit lets you create apps for your machine learning projects with deceptive
 **Check out our [launch blog post](https://towardsdatascience.com/coding-ml-tools-like-you-code-ml-models-ddba3357eace)!!**
 
 ## Installation
+Installation of streamlit is very easy.
 
 ```bash
 pip install streamlit
@@ -21,7 +22,7 @@ We also have suggestions for installing Streamlit in a virtual environment in [W
 
 ## Example
 
-Streamlit lets you build interactive apps ridiculously easily:
+Streamlit lets you build interactive apps ridiculously easily and You can see the results on your web broswer:
 
 ```python
 import streamlit as st
